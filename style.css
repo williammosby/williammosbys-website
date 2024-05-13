@@ -1,0 +1,143 @@
+.content{
+    color: white;
+}
+.wm{
+    height: 100px;
+}
+.links{
+    color: white;
+}
+body{
+    font-size: 200%;
+    background-color: rgb(0, 183, 250);
+    color: white;
+}
+label{
+    padding-right: 5em;
+}
+.section1{
+    padding-left: 4em;
+}
+.section2{
+    padding-left: 4em;
+}
+.comments{
+    height: 100px;
+    width: 20%;
+}
+.name{
+    height: 50px;
+    width: 20%;
+}
+.email{
+    height: 50px;
+    width: 20%;
+}
+.submit{
+    height: 50px;
+    width: 20.5%;
+}
+.highschool{
+    font-size: 150%;
+}
+.college{
+    font-size: 150%;
+}
+.plans{
+    padding-top: 2em;
+}
+.WKU1{
+    height: 500px;
+    padding-left: 2em;
+}
+.broadcast{
+    width: 800px;
+}
+.forms{
+    padding-left: 4em;
+}
+.p{
+    font-size: 200%;
+    width: 900px;
+    padding-left: 4em;
+}
+.button{
+    color: blueviolet;
+    height: 50px;
+    width: 10%;
+}
+.dropdown-menu{
+    color: black;
+    font-size: 150%;
+}
+
+@media(max-width:900px){
+    .content{
+        color: white;
+    }
+    .links{
+        color: white;
+    }
+    body{
+        font-size: 200%;
+        background-color: rgb(0, 183, 250);
+        color: white;
+    }
+    label{
+        padding-right: 5em;
+    }
+    .section1{
+        padding-left: 4em;
+    }
+    .section2{
+        padding-left: 4em;
+    }
+    .comments{
+        height: 100px;
+        width: 40%;
+    }
+    .name{
+        height: 50px;
+        width: 40%;
+    }
+    .email{
+        height: 50px;
+        width: 40%;
+    }
+    .submit{
+        height: 50px;
+        width: 20.5%;
+    }
+    .highschool{
+        font-size: 150%;
+    }
+    .college{
+        font-size: 150%;
+    }
+    .plans{
+        padding-top: 2em;
+    }
+    .WKU1{
+        height: 200px;
+    }
+    .broadcast{
+        width: 400px;
+    }
+    .forms{
+        padding-left: 4em;
+    }
+    .p{
+        font-size: 200%;
+        width: 800px;
+    }
+    .button{
+        color: blueviolet;
+        height: 50px;
+        width: 20%;
+    }
+    .dropdown-menu{
+        color: black;
+        font-size: 150%;
+    }
+}
+
